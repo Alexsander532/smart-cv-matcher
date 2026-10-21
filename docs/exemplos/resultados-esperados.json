@@ -1,0 +1,165 @@
+{
+  "synthetic": true,
+  "criteria_version": "demo-v1",
+  "cutoff_date": "2026-10-21",
+  "status": "referencia_manual_documental_nao_execucao_de_software",
+  "results": [
+    {
+      "professional_id": "P001",
+      "eligibility": "elegivel",
+      "proven_points_by_criterion": {
+        "C1": 10,
+        "C2": 8,
+        "C3": 5,
+        "C4": 5
+      },
+      "proven_score": 28,
+      "additional_pending_points": 0,
+      "potential_score_if_pending_accepted": 28
+    },
+    {
+      "professional_id": "P002",
+      "eligibility": "elegivel",
+      "proven_points_by_criterion": {
+        "C1": 10,
+        "C2": 6,
+        "C3": 5,
+        "C4": 5
+      },
+      "proven_score": 26,
+      "additional_pending_points": 0,
+      "potential_score_if_pending_accepted": 26
+    },
+    {
+      "professional_id": "P003",
+      "eligibility": "elegivel",
+      "proven_points_by_criterion": {
+        "C1": 0,
+        "C2": 8,
+        "C3": 5,
+        "C4": 5
+      },
+      "proven_score": 18,
+      "additional_pending_points": 10,
+      "potential_score_if_pending_accepted": 28
+    },
+    {
+      "professional_id": "P004",
+      "eligibility": "inelegivel",
+      "proven_points_by_criterion": {
+        "C1": 10,
+        "C2": 8,
+        "C3": 5,
+        "C4": 5
+      },
+      "proven_score": 28,
+      "additional_pending_points": 0,
+      "potential_score_if_pending_accepted": 28
+    },
+    {
+      "professional_id": "P005",
+      "eligibility": "elegivel",
+      "proven_points_by_criterion": {
+        "C1": 10,
+        "C2": 2,
+        "C3": 0,
+        "C4": 0
+      },
+      "proven_score": 12,
+      "additional_pending_points": 0,
+      "potential_score_if_pending_accepted": 12
+    },
+    {
+      "professional_id": "P006",
+      "eligibility": "elegivel",
+      "proven_points_by_criterion": {
+        "C1": 0,
+        "C2": 4,
+        "C3": 5,
+        "C4": 5
+      },
+      "proven_score": 14,
+      "additional_pending_points": 0,
+      "potential_score_if_pending_accepted": 14
+    },
+    {
+      "professional_id": "P007",
+      "eligibility": "elegivel",
+      "proven_points_by_criterion": {
+        "C1": 0,
+        "C2": 0,
+        "C3": 5,
+        "C4": 0
+      },
+      "proven_score": 5,
+      "additional_pending_points": 0,
+      "potential_score_if_pending_accepted": 5
+    },
+    {
+      "professional_id": "P008",
+      "eligibility": "elegivel",
+      "proven_points_by_criterion": {
+        "C1": 10,
+        "C2": 8,
+        "C3": 5,
+        "C4": 0
+      },
+      "proven_score": 23,
+      "additional_pending_points": 0,
+      "potential_score_if_pending_accepted": 23
+    },
+    {
+      "professional_id": "P009",
+      "eligibility": "elegivel",
+      "proven_points_by_criterion": {
+        "C1": 0,
+        "C2": 8,
+        "C3": 0,
+        "C4": 5
+      },
+      "proven_score": 13,
+      "additional_pending_points": 5,
+      "potential_score_if_pending_accepted": 18
+    },
+    {
+      "professional_id": "P010",
+      "eligibility": "inelegivel",
+      "proven_points_by_criterion": {
+        "C1": 10,
+        "C2": 8,
+        "C3": 5,
+        "C4": 0
+      },
+      "proven_score": 23,
+      "additional_pending_points": 0,
+      "potential_score_if_pending_accepted": 23
+    },
+    {
+      "professional_id": "P011",
+      "eligibility": "elegivel",
+      "proven_points_by_criterion": {
+        "C1": 10,
+        "C2": 2,
+        "C3": 0,
+        "C4": 5
+      },
+      "proven_score": 17,
+      "additional_pending_points": 2,
+      "potential_score_if_pending_accepted": 19
+    },
+    {
+      "professional_id": "P012",
+      "eligibility": "pendente",
+      "proven_points_by_criterion": {
+        "C1": 10,
+        "C2": 4,
+        "C3": 5,
+        "C4": 0
+      },
+      "proven_score": 19,
+      "additional_pending_points": 5,
+      "potential_score_if_pending_accepted": 24
+    }
+  ],
+  "recommended_for_single_slot": "P001"
+}

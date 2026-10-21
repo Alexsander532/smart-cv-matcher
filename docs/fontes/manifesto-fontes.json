@@ -1,0 +1,25 @@
+{
+  "reference_date": "2026-10-21",
+  "files": [
+    {
+      "path_from_repository_root": "regulamento-hackatohm-2026.pdf",
+      "size_bytes": 4864010,
+      "sha256": "b6d40fb585a9e3ba5bbd2733fd76af8c3a3c9fd181640f893253678f0baf2fb5"
+    },
+    {
+      "path_from_repository_root": "docs/fontes/case-hackathon.html",
+      "size_bytes": 5065619,
+      "sha256": "c6809c93228acd499044abbf28ea788dc674e4508f7e7860636510dac2cb2b3d"
+    },
+    {
+      "path_from_repository_root": "docs/fontes/case-texto.txt",
+      "size_bytes": 10358,
+      "sha256": "c64873e969f780d69ff506c6cc71fea721783e27273b4033b9f92fa80f577e37"
+    },
+    {
+      "path_from_repository_root": "docs/fontes/regulamento-texto.txt",
+      "size_bytes": 33479,
+      "sha256": "ce30ee471ab65ad38e574f5d1cfc1037b7eb5525a45b18484b077ad59d68b11a"
+    }
+  ]
+}

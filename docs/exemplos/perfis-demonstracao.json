@@ -1,0 +1,905 @@
+{
+  "schema_version": "1.0",
+  "synthetic": true,
+  "disclaimer": "Pessoas, dados e estados de evidência são inteiramente fictícios. Referências synthetic: são identificadores de simulação, não arquivos ou comprovantes reais. Não foi executada extração documental.",
+  "profiles": [
+    {
+      "id": "P001",
+      "display_name": "Ana Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2027-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P001:pmp",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P001:postgraduate",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "energy_projects": [
+        {
+          "canonical_project_id": "P001-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P001:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P001-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P001:energy-2",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P001-ENERGIA-03",
+          "name": "Projeto sintético de energia 3",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P001:energy-3",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P001-ENERGIA-04",
+          "name": "Projeto sintético de energia 4",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P001:energy-4",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2010-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P001:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P002",
+      "display_name": "Bruno Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2027-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P002:pmp",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P002:postgraduate",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "energy_projects": [
+        {
+          "canonical_project_id": "P002-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P002:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P002-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P002:energy-2",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P002-ENERGIA-03",
+          "name": "Projeto sintético de energia 3",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P002:energy-3",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2012-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P002:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P003",
+      "display_name": "Carla Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2027-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P003:pmp",
+          "status": "pending",
+          "reviewed_on": null
+        }
+      },
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P003:postgraduate",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "energy_projects": [
+        {
+          "canonical_project_id": "P003-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P003:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P003-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P003:energy-2",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P003-ENERGIA-03",
+          "name": "Projeto sintético de energia 3",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P003:energy-3",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P003-ENERGIA-04",
+          "name": "Projeto sintético de energia 4",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P003:energy-4",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2011-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P003:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P004",
+      "display_name": "Diego Exemplo",
+      "synthetic": true,
+      "available": false,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2027-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P004:pmp",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P004:postgraduate",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "energy_projects": [
+        {
+          "canonical_project_id": "P004-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P004:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P004-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P004:energy-2",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P004-ENERGIA-03",
+          "name": "Projeto sintético de energia 3",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P004:energy-3",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P004-ENERGIA-04",
+          "name": "Projeto sintético de energia 4",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P004:energy-4",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2009-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P004:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P005",
+      "display_name": "Elisa Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2027-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P005:pmp",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "postgraduate": null,
+      "energy_projects": [
+        {
+          "canonical_project_id": "P005-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P005:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2017-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P005:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P006",
+      "display_name": "Fabio Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2025-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P006:pmp",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P006:postgraduate",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "energy_projects": [
+        {
+          "canonical_project_id": "P006-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P006:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P006-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P006:energy-2",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2013-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P006:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P007",
+      "display_name": "Gabriela Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": null,
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P007:postgraduate",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "energy_projects": [],
+      "career_periods": [
+        {
+          "start_date": "2020-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P007:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P008",
+      "display_name": "Hugo Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2027-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P008:pmp",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P008:postgraduate",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "energy_projects": [
+        {
+          "canonical_project_id": "P008-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P008:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P008-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P008:energy-2",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P008-ENERGIA-03",
+          "name": "Projeto sintético de energia 3",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P008:energy-3",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P008-ENERGIA-04",
+          "name": "Projeto sintético de energia 4",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P008:energy-4",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P008-ENERGIA-05",
+          "name": "Projeto sintético de energia 5",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P008:energy-5",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2016-10-21",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P008:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P009",
+      "display_name": "Iara Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": null,
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P009:postgraduate",
+          "status": "pending",
+          "reviewed_on": null
+        }
+      },
+      "energy_projects": [
+        {
+          "canonical_project_id": "P009-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P009:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P009-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P009:energy-2",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P009-ENERGIA-03",
+          "name": "Projeto sintético de energia 3",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P009:energy-3",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P009-ENERGIA-04",
+          "name": "Projeto sintético de energia 4",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P009:energy-4",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2011-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P009:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P010",
+      "display_name": "Joao Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2027-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P010:pmp",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P010:postgraduate",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "energy_projects": [
+        {
+          "canonical_project_id": "P010-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P010:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P010-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P010:energy-2",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P010-ENERGIA-03",
+          "name": "Projeto sintético de energia 3",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P010:energy-3",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P010-ENERGIA-04",
+          "name": "Projeto sintético de energia 4",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P010:energy-4",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2023-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P010:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P011",
+      "display_name": "Karen Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2027-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P011:pmp",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "postgraduate": null,
+      "energy_projects": [
+        {
+          "canonical_project_id": "P011-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P011:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P011-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P011:energy-2",
+            "status": "pending",
+            "reviewed_on": null
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2014-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P011:career",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "P012",
+      "display_name": "Lucas Exemplo",
+      "synthetic": true,
+      "available": true,
+      "availability_period": {
+        "start": "2026-11-01",
+        "end": "2027-04-30"
+      },
+      "pmp": {
+        "name": "PMP",
+        "valid_until": "2027-12-31",
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P012:pmp",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "postgraduate": {
+        "name": "Pós-graduação fictícia em Gestão de Projetos de Energia",
+        "completed": true,
+        "relevance_approved": true,
+        "evidence": {
+          "synthetic": true,
+          "reference": "synthetic:P012:postgraduate",
+          "status": "accepted",
+          "reviewed_on": "2026-10-21"
+        }
+      },
+      "energy_projects": [
+        {
+          "canonical_project_id": "P012-ENERGIA-01",
+          "name": "Projeto sintético de energia 1",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P012:energy-1",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        },
+        {
+          "canonical_project_id": "P012-ENERGIA-02",
+          "name": "Projeto sintético de energia 2",
+          "sector": "energia",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P012:energy-2",
+            "status": "accepted",
+            "reviewed_on": "2026-10-21"
+          }
+        }
+      ],
+      "career_periods": [
+        {
+          "start_date": "2011-01-01",
+          "end_date": "2026-10-21",
+          "evidence": {
+            "synthetic": true,
+            "reference": "synthetic:P012:career",
+            "status": "pending",
+            "reviewed_on": null
+          }
+        }
+      ],
+      "profile_reviewed_on": "2026-10-21"
+    }
+  ]
+}

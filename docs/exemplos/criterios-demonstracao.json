@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "synthetic": true,
+  "status": "illustrative_not_implemented",
+  "description": "Disputa fictícia inspirada no exemplo do case; não corresponde a edital real.",
+  "opportunity_id": "DEMO-001",
+  "criteria_version": "demo-v1",
+  "cutoff_date": "2026-10-21",
+  "role": {
+    "id": "gerente-projeto",
+    "slots": 1,
+    "allow_multiple_roles_per_person": false
+  },
+  "eligibility": [
+    {
+      "id": "E1",
+      "field": "available",
+      "operator": "equals",
+      "value": true
+    },
+    {
+      "id": "E2",
+      "field": "career_periods",
+      "operator": "union_calendar_years_at_least",
+      "value": 5,
+      "accepted_evidence_required": true
+    }
+  ],
+  "evidence_policy": {
+    "score_requires": "accepted",
+    "unknown_required_fact": "pending",
+    "expires_on_cutoff": "valid_through_date",
+    "synthetic_evidence_is_not_real_proof": true
+  },
+  "criteria": [
+    {
+      "id": "C1",
+      "name": "PMP",
+      "kind": "binary",
+      "field": "pmp",
+      "requires_valid_on_cutoff": true,
+      "points": 10,
+      "cap": 10
+    },
+    {
+      "id": "C2",
+      "name": "Projetos de energia",
+      "kind": "distinct_count",
+      "field": "energy_projects",
+      "distinct_key": "canonical_project_id",
+      "points_per_unit": 2,
+      "cap": 8
+    },
+    {
+      "id": "C3",
+      "name": "Pós-graduação na área do objeto",
+      "kind": "binary",
+      "field": "postgraduate",
+      "requires_completed": true,
+      "requires_relevance_approval": true,
+      "points": 5,
+      "cap": 5
+    },
+    {
+      "id": "C4",
+      "name": "Mais de dez anos de experiência",
+      "kind": "duration",
+      "field": "career_periods",
+      "operator": "strictly_greater_than_calendar_years",
+      "threshold": 10,
+      "points": 5,
+      "cap": 5
+    }
+  ],
+  "aggregation": {
+    "mode": "additive_independent_criteria",
+    "maximum": 28,
+    "ranking": "eligible_by_proven_score",
+    "pending_points": "recompute_potential_scenario_not_official_score"
+  },
+  "source": "docs/fontes/case-hackathon.html; regras detalhadas da demonstração em docs/06-pontuacao-e-equipes.md"
+}

@@ -1,0 +1,615 @@
+
+--- PÁGINA 1 ---
+Competição Acadêmica
+HackatOhm
+2026
+19 a 29 de outubro
+Regulamento
+CAPÍTULO I — D
+Art. 1º O HackatOhm 2026 é uma atividade de extensão da Universidade Federal de C
+Inovação de Minas Gerais (UF
+Tecnológica), realizada no
+empresas parceiras em uma competição acadêmica multidisciplinar voltada à proposição de soluções
+para desafios do setor produtivo e da sociedade, integrando
+da criatividade e do trabalho colaborativo.
+§ 1º O HackatOhm 2026 possui caráter multidisciplinar, com participação especialmente das áreas de
+Administração,
+admitindo a integração de estudantes de diferentes cursos e níveis de ensino do campus Nova
+Gameleira do
+ΩΩ
+EFINIÇÃO
+iência e
+C
+I-MG), aqui designada como
+C
+EFET-MG (
+Centro Federal de Educação
+C
+ampus Nova Gameleira (
+C
+NG), que reúne estudantes, professores e
+C
+iência, tecnologia e Inovação por meio
+C
+omputação, Engenharia
+C
+ivil, Engenharia Mecânica e Engenharia Elétrica,
+C
+EFET-MG, desde a educação profissional técnica de nível médio até a pós-graduação.
+§ 2º As informações oficiais do HackatOhm 2026, incluindo inscrições, programação, desafios e
+comunicados da comissão organizadora, serão disponibilizadas no site oficial do evento:
+https://abre.ai/hackatohm.
+CAPÍTULO II — OBJETIVOS
+Art. 2º São objetivos do HackatOhm 2026:
+I — Fomentar a interação entre o
+C
+EFET-MG, o setor produtivo e a sociedade;
+II — Proporcionar aos estudantes oportunidades de aplicação de conhecimentos em problemas
+práticos;
+III — Desenvolver competências técnicas, criatividade, comunicação, planejamento e trabalho em
+equipe;
+IV — Promover a interdisciplinaridade e a integração entre diferentes áreas do conhecimento;
+V — Estimular a elaboração de soluções inovadoras e viáveis para os desafios apresentados;
+VI — Aproximar os estudantes de profissionais e organizações, ampliando oportunidades de
+formação e atuação profissional;
+VII — Favorecer o estabelecimento de futuras parcerias institucionais de ensino, pesquisa, extensão
+e inovação.
+VIII — Promover atividades de extensão acadêmica que auxiliem os estudantes de graduação na
+integralização das horas curriculares de extensão.
+CAPÍTULO III — PARTI
+C
+IPANTES E ORGANIZAÇÃO
+Art. 3º A estrutura de organização e participação do HackatOhm 2026 será composta pelos
+seguintes grupos, com atribuições específicas e atuação integrada no planejamento, na realização e
+no acompanhamento das atividades do evento:
+I — Equipes de estudantes;
+II —
+C
+omissão organizadora;
+III — Professores mentores;
+IV — Empresas e instituições parceiras;
+V — Patrocinadores, quando houver.
+§ 1º
+C
+ada equipe será composta por, no mínimo, três e, no máximo, cinco integrantes, todos
+estudantes do
+NG-
+C
+C
+EFET-MG, sendo pelo menos três estudantes de graduação. Um dos
+integrantes deverá ser indicado como líder da equipe, responsável pela interlocução com a comissão
+organizadora e os professores mentores. 1/11
+
+--- PÁGINA 2 ---
+Competição Acadêmica
+HackatOhm
+2026
+19 a 29 de outubro
+§ 2º Estudantes de cursos técnicos e de pós-graduação poderão integrar as equipes, respeitados o
+limite total de integrantes e o número mínimo de estudantes de graduação.
+ΩΩ Regulamento
+§ 3º As equipes poderão ser compostas por estudantes de diferentes cursos e níveis de ensino,
+favorecendo a complementaridade de conhecimentos e competências para a elaboração das
+propostas de solução.
+§ 4º
+C
+ada desafio contará com dois professores mentores e uma empresa ou instituição parceira.
+CAPÍTULO IV — ATRIBUIÇÕES
+Art. 4º São atribuições das equipes de estudantes:
+I —
+C
+umprir as disposições deste regulamento e as orientações da comissão organizadora e dos
+professores mentores;
+II — Atuar com respeito, responsabilidade e espírito de colaboração, contribuindo para a participação
+efetiva de todos os integrantes da equipe;
+III — Planejar e desenvolver uma proposta de solução para o desafio atribuído à equipe,
+considerando seus objetivos, restrições e recursos disponíveis;
+IV — Informar regularmente os professores mentores sobre o progresso dos trabalhos, as
+dificuldades encontradas e eventuais necessidades de orientação;
+V — Registrar as atividades desenvolvidas, as decisões tomadas e as contribuições de cada
+integrante ao longo do trabalho;
+VI — Elaborar e submeter os materiais exigidos, observando os formatos, os requisitos e os prazos
+estabelecidos;
+VII — Participar das atividades obrigatórias previstas na programação do HackatOhm 2026;
+VIII — Respeitar as condições de acesso, uso e divulgação dos dados, materiais, sistemas e
+informações disponibilizados, incluindo as obrigações de confidencialidade;
+IX — Identificar as fontes de informação, as ferramentas e os recursos utilizados, reconhecendo as
+contribuições de terceiros e respeitando as licenças e os direitos aplicáveis.
+Art. 5º São atribuições da comissão organizadora:
+I — Elaborar e divulgar o regulamento, o cronograma e as orientações gerais para a participação no
+HackatOhm 2026;
+II — Articular a atuação das coordenações de área, dos professores mentores e das empresas
+parceiras, promovendo a integração entre os envolvidos;
+III — Avaliar, em conjunto com os professores mentores, a adequação dos desafios ao perfil dos
+estudantes, ao prazo de desenvolvimento e aos recursos disponíveis;
+IV — Gerenciar o processo de inscrição, acompanhar a formação das equipes e coordenar sua
+distribuição entre os desafios;
+V — Planejar e organizar as cerimônias de abertura e encerramento, bem como a infraestrutura e a
+logística necessárias à realização do HackatOhm 2026;
+VI —
+C
+oordenar a comunicação com os participantes, assegurando a divulgação das informações,
+dos prazos e das orientações pertinentes;
+VII — Solucionar questões operacionais e deliberar sobre situações não previstas neste regulamento;
+VIII —
+C
+onsolidar os registros de participação e os documentos necessários à certificação dos
+participantes e ao encerramento acadêmico e administrativo das atividades.
+2/11
+
+--- PÁGINA 3 ---
+Competição Acadêmica
+HackatOhm
+2026
+19 a 29 de outubro
+Art. 6º São atribuições dos professores mentores:
+I—
+C
+olaborar com as empresas e ΩΩ Regulamento
+instituições parceiras na definição e na revisão dos desafios,
+considerando seus objetivos, o perfil dos estudantes, o prazo de desenvolvimento e os recursos
+disponíveis;
+II — Orientar as equipes na compreensão e na delimitação do problema, na elaboração do plano de
+trabalho e no desenvolvimento das propostas de solução;
+III — Acompanhar regularmente o progresso dos trabalhos e a participação dos estudantes,
+identificando dificuldades e orientando os ajustes necessários;
+IV — Mediar a comunicação entre as equipes e as empresas e instituições parceiras, favorecendo o
+alinhamento das propostas aos objetivos dos desafios e assegurando que esclarecimentos e
+informações de interesse comum sejam compartilhados com todas as equipes vinculadas ao mesmo
+desafio, garantindo equidade de condições;
+V — Analisar as dúvidas apresentadas pelas equipes e encaminhar às empresas e instituições
+parceiras aquelas que necessitem de esclarecimentos específicos ou informações complementares;
+VI — Facilitar o acesso das equipes à infraestrutura institucional necessária, observadas a
+disponibilidade, a autorização dos responsáveis e as normas de utilização;
+VII — Orientar a preparação dos materiais e das apresentações finais, verificando sua adequação aos
+requisitos estabelecidos e prestando suporte técnico ao processo de avaliação;
+VIII — Registrar, acompanhar e avaliar as atividades acadêmicas e extensionistas sob sua
+responsabilidade, incluindo a participação dos estudantes, os planos de trabalho e os relatórios
+necessários ao encerramento das atividades;
+IX — Acompanhar o cumprimento deste regulamento por parte dos envolvidos, orientando quanto à
+observância das regras e comunicando à comissão organizadora eventuais irregularidades.
+Art. 7º São atribuições das empresas e instituições parceiras:
+I — Apresentar um desafio com contexto, objetivos, restrições e resultados esperados claramente
+definidos, cujo escopo seja compatível com o perfil dos estudantes e o prazo de desenvolvimento
+das soluções;
+II — Validar o escopo do desafio em conjunto com a comissão organizadora e os professores
+mentores, alinhando as expectativas quanto às propostas de solução e às entregas previstas;
+III — Informar os dados, materiais e recursos que poderão ser disponibilizados às equipes,
+especificando as condições de utilização e eventuais restrições de acesso, confidencialidade e
+divulgação;
+IV — Indicar pelo menos um representante para participar das cerimônias de abertura e
+encerramento, apresentar o contexto do desafio e acompanhar os resultados obtidos;
+V — Prestar, por intermédio dos professores mentores, os esclarecimentos e as informações
+complementares necessários ao desenvolvimento das soluções;
+VI — Avaliar as entregas finais de acordo com os critérios estabelecidos neste regulamento e
+participar da seleção da equipe vencedora do respectivo desafio.
+§ 1º A participação das empresas e instituições parceiras no HackatOhm 2026 não exige
+contrapartida financeira.
+§ 2º As empresas e instituições parceiras poderão, de forma voluntária e mediante aprovação prévia
+da comissão organizadora, disponibilizar recursos para o desenvolvimento das soluções, oferecer
+brindes aos participantes ou conceder premiações adicionais às equipes.
+3/11
+
+--- PÁGINA 4 ---
+Competição Acadêmica
+HackatOhm
+2026
+19 a 29 de outubro
+§ 3º A participação no HackatOhm 2026 não gera obrigação de contratação dos estudantes,
+implementação das soluções ou continuidade da parceria após o encerramento, podendo eventuais
+iniciativas de continuidade ser formalizadas por instrumentos institucionais próprios.
+ΩΩ Regulamento
+Art. 8º Os patrocinadores, quando houver, poderão fornecer apoio econômico, materiais, serviços ou
+premiações, conforme condições previamente acordadas com a comissão organizadora.
+CAPÍTULO V — INSC
+RIÇÕES E FORMAÇÃO DAS EQUIPES
+Art. 9º As inscrições das equipes deverão ser realizadas no site oficial do HackatOhm 2026,
+mediante preenchimento do formulário de inscrição, até o início da cerimônia de abertura do evento.
+§ 1º No ato da inscrição, deverão ser informados o nome da equipe, o nome completo, o curso e o
+período de cada integrante, além de outros dados solicitados no formulário.
+§ 2º
+C
+ada equipe deverá indicar, dentre as empresas e instituições participantes do HackatOhm
+2026, três para cujos desafios deseja desenvolver uma proposta de solução, em ordem de
+prioridade.
+§ 3º A indicação das preferências não garante a alocação da equipe no desafio de uma empresa ou
+instituição específica.
+§ 4º A comissão organizadora poderá propor ajustes na composição das equipes para atender aos
+requisitos deste regulamento e à distribuição das vagas, mediante comunicação aos estudantes
+envolvidos.
+§ 5º Além da inscrição da equipe no site do HackatOhm 2026, os estudantes interessados no registro
+acadêmico de sua participação como atividade de extensão deverão realizar, individualmente, a
+manifestação de interesse na respectiva atividade cadastrada no SIGAA, dentro dos prazos
+divulgados.
+§ 6º O reconhecimento de horas de extensão depende da inscrição individual no SIGAA, do
+cumprimento do plano de trabalho e da aprovação do estudante na respectiva atividade de extensão.
+§ 7º
+C
+ada estudante poderá integrar apenas uma equipe e cada equipe poderá concorrer a apenas
+um desafio.
+§ 8º Alterações na composição das equipes, inclusive por desistência ou substituição de integrantes,
+dependerão de aprovação da comissão organizadora e deverão preservar os requisitos deste
+regulamento.
+CAPÍTULO VI — D
+ESAFIOS
+Art. 10. Os desafios serão propostos pelas empresas e instituições parceiras e poderão contemplar
+problemas de Administração,
+C
+omputação, Engenharia
+C
+ivil, Engenharia Mecânica e/ou Engenharia
+Elétrica, bem como questões que demandem a integração de conhecimentos de diferentes áreas.
+§ 1º Os desafios deverão apresentar contexto, objetivos, restrições e resultados esperados
+claramente definidos, de modo a orientar o planejamento e o desenvolvimento das soluções pelas
+equipes.
+§ 2º O desafio não precisará corresponder a um problema atual da empresa ou instituição parceira,
+sendo recomendada sua vinculação a situações práticas que favoreçam a aplicação de
+conhecimentos e a aproximação dos estudantes com a realidade profissional.
+§ 3º O escopo e a complexidade do desafio deverão ser compatíveis com a elaboração de uma
+proposta de solução por equipes com pelo menos três estudantes de graduação, no período de
+aproximadamente oito dias, considerando os recursos disponíveis e sem exigir sua implementação
+completa.
+4/11
+
+--- PÁGINA 5 ---
+Competição Acadêmica
+HackatOhm
+2026
+19 a 29 de outubro
+§ 4º Poderão ser utilizados previamente informadas.
+ΩΩ Regulamento
+dados reais, simulados ou provenientes de bases públicas, observadas as
+condições de acesso, uso e divulgação, as licenças aplicáveis e as obrigações de confidencialidade
+§ 5º Os desafios serão analisados pela comissão organizadora e pelos professores mentores, em
+conjunto com as empresas e instituições parceiras, para adequação do escopo, das entregas e dos
+recursos necessários ao período de realização do HackatOhm 2026.
+Art. 11. A comissão organizadora poderá divulgar previamente os temas gerais, as empresas e
+instituições parceiras e os professores mentores vinculados a cada desafio.
+Parágrafo único. A apresentação completa dos desafios e a divulgação da distribuição das equipes
+entre eles serão realizadas na cerimônia de abertura do HackatOhm 2026, ocasião em que serão
+informados o contexto de cada problema, os objetivos, as restrições, os recursos disponíveis, as
+entregas exigidas e as orientações específicas para o desenvolvimento e a avaliação das soluções.
+CAPÍTULO VII — DISTRIBUIÇÃO DAS EQUIPES ENTRE OS
+D
+ESAFIOS
+Art. 12. A distribuição das equipes entre os desafios será realizada conforme os critérios
+estabelecidos neste capítulo, sob responsabilidade e supervisão da comissão organizadora,
+considerando as preferências indicadas na inscrição, a pontuação das equipes e a disponibilidade de
+vagas.
+Art. 13. Para estabelecer a prioridade de alocação, cada equipe receberá uma pontuação
+correspondente à soma dos seguintes critérios:
+I — Participação feminina: um ponto para equipes com pelo menos duas integrantes que se
+autodeclarem mulheres;
+II — Antecedência da inscrição: meio ponto por dia de calendário de antecedência da conclusão da
+inscrição válida em relação à data de encerramento das inscrições, limitado a cinco pontos;
+III — Diversidade de níveis de ensino: um ponto para equipes compostas por estudantes de pelo
+menos dois níveis de ensino distintos, entre educação profissional técnica de nível médio, graduação
+e pós-graduação;
+IV — Diversidade de cursos: um ponto para equipes compostas por estudantes de pelo menos dois
+cursos distintos pertencentes a um mesmo nível de ensino.
+§ 1º Os pontos previstos nos incisos I, III e IV serão atribuídos uma única vez por critério e poderão
+ser acumulados. Para o inciso II, serão consideradas as datas do calendário, recebendo zero ponto as
+inscrições válidas concluídas na data de encerramento das inscrições.
+§ 2º As equipes serão classificadas em ordem decrescente da pontuação total. Em caso de empate,
+terá prioridade a equipe com maior pontuação no inciso I; persistindo o empate, serão consideradas,
+sucessivamente, as maiores pontuações nos incisos II, III e IV. Persistindo a igualdade em todos os
+critérios, o desempate será decidido a critério da coordenação do evento.
+Art. 14. A alocação será realizada em ordem decrescente de pontuação das equipes, considerando
+prioritariamente a primeira opção de empresa ou instituição parceira indicada na inscrição. Quando
+não houver vagas nessa opção, serão consideradas, sucessivamente, a segunda e a terceira opções,
+observados os limites de vagas e as condições de distribuição estabelecidos neste capítulo.
+§ 1º A indicação de preferências não garante a alocação em um desafio específico.
+5/11
+
+--- PÁGINA 6 ---
+Competição Acadêmica
+HackatOhm
+2026
+2026
+19 a 29 de outubro
+os números mínimo e máximo e ΩΩ Regulamento
+§ 2º A previsão inicial é de cinco a oito equipes por desafio, cabendo à comissão organizadora definir
+divulgar a relação dos desafios até o evento de abertura,
+considerando a capacidade de acompanhamento dos professores mentores e das empresas e
+instituições parceiras.
+§ 3º Quando a demanda por um desafio superar o número máximo de vagas, terão prioridade as
+equipes com maior pontuação. As demais serão alocadas conforme suas opções subsequentes ou,
+quando necessário, conforme o procedimento previsto no Art. 15.
+§ 4º A distribuição buscará assegurar o número mínimo de equipes por desafio, respeitando as
+preferências e a classificação sempre que possível. Eventuais insuficiências serão tratadas conforme
+o Art. 15.
+Art. 15. Quando necessário para assegurar o atendimento dos desafios ofertados, a comissão
+organizadora poderá realizar uma etapa complementar de redistribuição, priorizando o
+remanejamento de equipes com menor pontuação e buscando preservar as preferências indicadas
+na inscrição.
+§ 1º
+C
+aso não seja possível alocar a equipe em nenhuma das três opções indicadas na inscrição, ela
+será alocada no desafio com o menor número de equipes já vinculadas, respeitadas a disponibilidade
+de vagas e a capacidade de acompanhamento. Em caso de empate, será considerada a ordem de
+identificação dos desafios previamente divulgada pela organização.
+§ 2º Se o número de equipes inscritas for insuficiente para atender a todos os desafios, a comissão
+organizadora poderá ajustar sua oferta, reunir desafios compatíveis ou suspender aqueles sem
+condições de realização, mediante alinhamento com os professores mentores e as empresas e
+instituições parceiras.
+Art. 16. A comissão organizadora verificará os resultados da alocação das equipes e homologará a
+distribuição, assegurando o cumprimento dos critérios deste capítulo.
+§ 3º
+C
+aso o número de equipes inscritas ultrapasse a capacidade total de vagas, terão prioridade de
+alocação as equipes mais bem classificadas.
+§ 1º Eventuais ajustes deverão ser justificados e registrados, observando os mesmos critérios
+aplicados às demais equipes.
+§ 2º A distribuição final das equipes entre os desafios será divulgada na cerimônia de abertura do
+HackatOhm 2026.
+CAPÍTULO VIII — D
+ESENVOLVIMENTO E ENTREGAS
+Art. 17. As propostas de solução para os desafios deverão ser desenvolvidas pelos integrantes das
+equipes durante o período estabelecido no cronograma do HackatOhm 2026, considerando os
+objetivos, as restrições e os resultados esperados de cada desafio.
+§ 1º É permitida a utilização de conhecimentos prévios, referências, métodos e ferramentas
+existentes, desde que as fontes sejam identificadas e a contribuição original da equipe para a
+solução proposta seja explicitada.
+§ 2º As equipes poderão utilizar bibliotecas de código aberto, APIs, bases de dados públicas e outras
+ferramentas de apoio, observadas as licenças aplicáveis, as condições de uso e as restrições
+específicas do desafio.
+6/11
+
+--- PÁGINA 7 ---
+Competição Acadêmica
+HackatOhm
+2026
+2026
+19 a 29 de outubro
+ΩΩ Regulamento
+Art. 18. A equipe será integralmente responsável pela elaboração das propostas de solução e dos
+materiais entregues, pela participação de seus integrantes e pela utilização dos meios, das
+ferramentas e dos dados empregados no desenvolvimento dos trabalhos, observadas a legislação
+aplicável, as licenças de uso, os direitos de terceiros e as condições de confidencialidade.
+§ 1º A orientação dos professores mentores e os esclarecimentos prestados pelas empresas e
+instituições parceiras integram a dinâmica do HackatOhm 2026 e poderão subsidiar o
+desenvolvimento das soluções.
+§ 2º Não é permitida a elaboração das propostas de solução ou dos materiais entregues por pessoas
+externas à equipe.
+Art. 19. As equipes poderão realizar suas atividades presencialmente ou de forma remota, conforme
+seu planejamento e as orientações dos professores mentores, sem prejuízo da participação nas
+atividades obrigatórias do HackatOhm 2026.
+Parágrafo único. A utilização de laboratórios, equipamentos e demais espaços do
+C
+EFET-MG
+ocorrerá sob mediação direta dos professores mentores e dependerá da disponibilidade, da
+autorização dos responsáveis e do cumprimento das normas de acesso, segurança e utilização.
+Art. 20.
+C
+ada equipe deverá apresentar uma proposta de solução para o desafio que lhe foi atribuído,
+acompanhada dos seguintes materiais:
+I — Texto de duas páginas que apresente o problema, a solução proposta, sua fundamentação e os
+resultados obtidos ou esperados;
+II — Vídeo de apresentação em formato de pitch, com duração de até cinco minutos, que comunique,
+de maneira clara e objetiva, a solução e seus principais diferenciais.
+§ 1º A proposta de solução poderá ser acompanhada de protótipos, simulações, sites, aplicativos,
+modelos, documentos ou outros recursos que auxiliem sua compreensão e demonstrem sua
+viabilidade.
+§ 2º Não é exigida a implementação completa da solução, devendo a equipe distinguir os resultados
+efetivamente obtidos das funcionalidades, etapas ou benefícios previstos.
+§ 3º O nível de desenvolvimento esperado deverá ser compatível com a complexidade do desafio, o
+prazo de execução e os recursos disponibilizados.
+§ 4º Os canais e horários de submissão serão informados pela comissão organizadora na cerimônia
+de abertura e no site do HackatOhm 2026.
+§ 5º Todos os materiais entregues deverão respeitar as condições de confidencialidade, as licenças
+de uso e os direitos de propriedade intelectual aplicáveis.
+§ 6º A equipe deverá pesquisar a área de atuação da empresa ou instituição parceira e as
+competências tecnológicas do
+C
+EFET-MG e, com base nas informações levantadas, incluir no texto
+entregue um parágrafo de 150 a 200 palavras que analise a afinidade entre essas áreas e identifique
+perspectivas de desenvolvimento tecnológico, inovação e cooperação entre as instituições.
+Art. 21. As entregas deverão ser submetidas integralmente dentro do prazo estabelecido no
+cronograma. A ausência de materiais obrigatórios ou a submissão fora do prazo resultará na
+desclassificação da equipe.
+7/11
+
+--- PÁGINA 8 ---
+Competição Acadêmica
+HackatOhm
+2026
+2026
+19 a 29 de outubro
+uso dos recursos.
+ΩΩ Regulamento
+Art. 22. Eventuais necessidades adicionais deverão ser discutidas previamente com os professores
+mentores e dependerão da disponibilidade e da autorização dos responsáveis pelo fornecimento ou
+CAPÍTULO IX — AVALIAÇÃO
+Art. 23. As propostas de solução serão avaliadas segundo os critérios abaixo, sendo atribuída a cada
+um deles uma nota de zero a dez:
+I — Inovação e originalidade: criatividade da abordagem e contribuição da equipe para a proposição
+de uma solução inovadora no contexto do desafio;
+II — Aderência ao desafio: atendimento ao problema apresentado, aos objetivos estabelecidos e aos
+resultados esperados;
+III — Viabilidade técnica: coerência da solução proposta e possibilidade de implementação,
+considerando os recursos necessários e as restrições do desafio;
+IV — Potencial de impacto: benefícios socioeconômicos, organizacionais ou ambientais que poderão
+resultar da aplicação da solução;
+V — Qualidade da apresentação e fundamentação: clareza, organização e consistência dos materiais
+entregues;
+fundamentação da solução proposta; e qualidade da pesquisa realizada pela equipe sobre
+a afinidade entre a área de atuação da empresa ou instituição parceira e as competências
+tecnológicas do
+C
+EFET-MG.
+§ 1º A pontuação final da equipe corresponde à média aritmética das notas atribuídas aos cinco
+critérios, com igual peso entre eles. Havendo mais de um avaliador, a nota de cada critério
+corresponde à média aritmética das notas individuais.
+§ 2º A avaliação considera o caráter propositivo das entregas e não exige a implementação completa
+da solução, conforme previsto neste regulamento.
+§ 3º Os resultados da avaliação serão definitivos, não cabendo recurso quanto às notas atribuídas ou
+à classificação das equipes.
+Art. 24. A avaliação será realizada pelos representantes da empresa ou instituição parceira
+responsável pelo desafio, com suporte técnico dos professores mentores e acompanhamento da
+comissão organizadora.
+Parágrafo único. As notas e as justificativas da avaliação deverão ser registradas e encaminhadas à
+comissão organizadora para consolidação dos resultados.
+Art. 25. Será declarada vencedora de cada desafio a equipe que obtiver a maior pontuação final
+entre as propostas de solução avaliadas.
+§ 1º Em caso de empate, serão consideradas, sucessivamente, as maiores notas nos critérios de
+aderência ao desafio, viabilidade técnica e inovação e originalidade.
+§ 2º Persistindo o empate, a decisão caberá aos avaliadores do desafio, com justificativa
+fundamentada nos critérios de avaliação e registrada junto à comissão organizadora.
+CAPÍTULO X — PREMIAÇÃO E
+C
+ERTIFI
+CAÇÃO
+Art. 26. As equipes vencedoras de cada desafio serão anunciadas publicamente na cerimônia de
+encerramento do HackatOhm 2026, prevista para 29 de outubro de 2026.
+8/11
+
+--- PÁGINA 9 ---
+Competição Acadêmica
+HackatOhm
+2026
+19 a 29 de outubro
+organizadora no site do HackatOhm 2026.
+ΩΩ Regulamento
+Parágrafo único. As premiações e as condições para sua concessão serão divulgadas pela comissão
+Art. 27. Receberão certificado de participação os estudantes que cumprirem os requisitos
+estabelecidos para o HackatOhm 2026, incluindo a participação nas atividades obrigatórias e a
+realização das entregas previstas.
+§ 1º Os requisitos de participação e os procedimentos de certificação serão informados pela
+comissão organizadora e pelos responsáveis pelas atividades de extensão até a cerimônia de
+abertura.
+§ 2º O registro acadêmico das horas de extensão depende da inscrição individual na respectiva
+atividade cadastrada no SIGAA, do cumprimento do plano de trabalho e da aprovação do estudante
+pelo professor responsável.
+§ 3º A carga horária reconhecida corresponde às atividades efetivamente realizadas e aprovadas,
+conforme os registros e os critérios da respectiva atividade de extensão.
+CAPÍTULO XI —
+C
+RONOGRAMA
+Art. 28. As etapas de inscrição, organização, desenvolvimento, avaliação e encerramento do
+HackatOhm 2026 seguirão o cronograma abaixo:
+Atividade — D
+ata ou período
+Lançamento do evento e divulgação do regulamento e dos prazos de inscrição — 09/10/2026
+Inscrições pelo formulário do HackatOhm 2026 — de 09/10/2026 às 9:00 horas de 19/10/2026
+Abertura, apresentação dos desafios e divulgação da distribuição das equipes — 19/10/2026
+Manifestação individual de interesse no SIGAA — 19/10/2026 a 20/10/2026
+Desenvolvimento das soluções — 19 a 27/10/2026
+Entrega final das soluções pelos alunos — até às 23:00 horas de 27/10/2026
+Avaliação das soluções pelas empresas — 28/10/2026
+Encerramento e premiação — 29/10/2026
+Parágrafo único. Eventuais alterações no cronograma serão divulgadas no site oficial do evento e
+comunicadas aos participantes pela comissão organizadora.
+CAPÍTULO XII —
+ONFID
+C
+EN
+C
+IALIDAD
+E, PROPRIE
+DAD
+E INTELE
+CTUAL E
+DIVULGAÇÃO
+Art. 29. Os participantes deverão preservar a confidencialidade das soluções, dos dados e das
+informações sujeitos a sigilo aos quais tiverem acesso durante o HackatOhm 2026.
+§ 1º As empresas e instituições parceiras deverão identificar, antes de seu compartilhamento, as
+informações sigilosas e especificar as condições de acesso, utilização e divulgação.
+§ 2º Quando necessário, o acesso a dados ou informações específicos poderá ser condicionado à
+assinatura de termo complementar de confidencialidade, previamente alinhado com a comissão
+organizadora.
+§ 3º Os materiais entregues, os vídeos e as apresentações deverão respeitar as restrições de
+divulgação informadas, sem expor conteúdo sigiloso sem autorização.
+§ 4º As equipes e os professores mentores deverão respeitar os direitos autorais e as condições de
+uso dos dados e materiais fornecidos pelas empresas e instituições parceiras, sendo vedado seu
+compartilhamento, envio ou utilização em plataformas não autorizadas pela empresa ou instituição
+responsável.
+9/11
+
+--- PÁGINA 10 ---
+Competição Acadêmica
+HackatOhm
+2026
+19 a 29 de outubro
+Art. 30. A titularidade, a proteção âmbito do HackatOhm 2026 serão definidas conforme a Política de Inovação do
+C
+instrumentos institucionais aplicáveis.
+ΩΩ Regulamento
+e as condições de utilização das tecnologias desenvolvidas no
+EFET-MG e os
+Art. 31. O interesse de empresas e instituições parceiras em explorar comercialmente ou dar
+continuidade ao desenvolvimento de tecnologias resultantes do HackatOhm 2026 deverá ser
+encaminhado à C
+IE/D
+D
+E
+C
+, para análise e formalização do instrumento institucional adequado,
+incluindo, quando aplicável, Acordo de Pesquisa,
+Desenvolvimento e Inovação — P
+D&I.
+Parágrafo único. A participação no HackatOhm 2026 não implica transferência automática de
+direitos de propriedade intelectual nem autorização para exploração comercial das tecnologias
+desenvolvidas.
+Art. 32. A utilização da imagem, da voz e do nome dos participantes em materiais de divulgação
+institucional do HackatOhm 2026 depende de autorização específica, formalizada em termo próprio.
+CAPÍTULO XIII —
+CÓDIGO D
+E
+OND
+C
+UTA
+Art. 33. Todos os participantes deverão agir com respeito, responsabilidade e espírito de
+colaboração, contribuindo para um ambiente inclusivo e para a integridade das atividades do
+HackatOhm 2026.
+Parágrafo único. Não são tolerados assédio, discriminação, intimidação, violência ou outras condutas
+que comprometam a dignidade, a segurança ou a participação dos envolvidos.
+Art. 34. Não são admitidos plágio, apropriação indevida de trabalhos ou resultados, falsificação de
+informações e uso não autorizado de dados, materiais ou propriedade intelectual de terceiros.
+Parágrafo único. As equipes deverão reconhecer as contribuições de terceiros e apresentar com
+transparência a autoria, as fontes utilizadas e os resultados efetivamente obtidos.
+Art. 35. As ocorrências de descumprimento deste regulamento serão analisadas pela comissão
+organizadora, assegurada aos envolvidos a oportunidade de prestar esclarecimentos.
+§ 1º
+C
+onforme a natureza, a gravidade e as consequências da ocorrência, poderão ser aplicadas
+advertência, desclassificação individual ou desclassificação da equipe.
+§ 2º A decisão deverá ser fundamentada, registrada e comunicada aos envolvidos, considerando a
+responsabilidade de cada participante e o eventual comprometimento do trabalho da equipe.
+CAPÍTULO XIV — DISPOSIÇÕES GERAIS
+Art. 36. A inscrição no HackatOhm 2026 implica ciência e concordância com as disposições deste
+regulamento e compromisso de cumprimento das orientações oficiais do HackatOhm 2026.
+Art. 37. A comissão organizadora poderá atualizar este regulamento para atender às necessidades
+de realização do HackatOhm 2026, mediante divulgação da versão revisada no site oficial e
+comunicação aos participantes.
+10/11
+
+--- PÁGINA 11 ---
+Competição Acadêmica
+HackatOhm
+2026
+19 a 29 de outubro
+Parágrafo único. As alterações deverão preservar a transparência e a igualdade de tratamento entre
+as equipes, com indicação das disposições modificadas e da data de sua vigência.
+ΩΩ Regulamento
+Art. 38. Os casos omissos e as dúvidas de interpretação deste regulamento serão analisados e
+resolvidos pela comissão organizadora, com consulta aos professores mentores e às instâncias
+institucionais competentes, quando necessário.
+Parágrafo único. As decisões que afetem a participação, o desenvolvimento dos trabalhos ou a
+avaliação das equipes deverão ser registradas e comunicadas aos envolvidos.
+C
+OMISSÃO ORGANIZADORA
+Everthon de Souza Oliveira
+Úrsula do
+C
+armo Resende
+Eduardo Henrique da Rocha
+oppoli
+D
+aniel Hasan D
+alip
+C
+Artur C
+aron Mottin
+Glauciene Silva Martins
+Fábio José Bianchetti
+11/11
