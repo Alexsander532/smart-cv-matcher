@@ -1,0 +1,1 @@
+Arquivo criado para confirmar que o acesso de escrita ao repositório está funcionando.
